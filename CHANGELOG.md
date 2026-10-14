@@ -1,4 +1,10 @@
 # Histórico de versões
+## 0.1.1 — 2026-10-14
+- Página index.html no caminho citado pelo artigo, com apresentação, preparação, kit e experiência de origem.
+- Estilos responsivos, navegação por teclado e opção de impressão.
+- Correspondência explicitada entre relato histórico, sistematização e adaptação introdutória.
+- Instruções para publicação por GitHub Pages; conteúdo pedagógico anterior preservado.
+
 ## 0.1.0 — 2026-10-14
 Primeira versão pública introdutória no novo repositório:
 - apresentação e orientação de leitura;

@@ -2,7 +2,11 @@
 ## Comece aqui
 Metodologia criada por **Sandra Maria Pereira** para apoiar professores na transformação de problemas reais em projetos de aprendizagem com tecnologias computacionais e inteligência artificial.
 
-Este pacote aberto **0.1.0** oferece uma primeira aplicação autônoma: planejar, investigar, criar, testar e avaliar. É uma adaptação introdutória do percurso completo em oito etapas, preservado no [acervo de origem](https://github.com/smp-sandramariapereira/IPIT_origin). Não exige plataforma paga.
+Este pacote aberto **0.1.1** oferece uma primeira aplicação autônoma: planejar, investigar, criar, testar e avaliar. É uma adaptação introdutória do percurso completo em oito etapas, preservado no [acervo de origem](https://github.com/smp-sandramariapereira/IPIT_origin). Não exige plataforma paga.
+
+## Página pública
+A página de entrada é [index.html](https://smp-sandramariapereira.github.io/IPIT-IdeathonPedagogicoInovacaoTecnologica/index.html), no caminho citado pelo artigo. Sua publicação depende do GitHub Pages estar habilitado; consulte [PUBLICACAO.md](PUBLICACAO.md).
+Leia a [experiência de origem e a correspondência entre os percursos](docs/experiencia-de-origem.md).
 
 ## Prepare sua aula
 1. Leia o [guia do professor](docs/guia-do-professor.md) e preencha o planejamento breve.
@@ -32,4 +36,4 @@ Os arquivos Markdown são editáveis e podem ser copiados para o editor usado pe
 Consulte [créditos e referências](CREDITOS.md), [licença](LICENSE) e [histórico de versões](CHANGELOG.md).
 Dúvidas e relatos podem ser registrados nas Issues, sem dados pessoais de estudantes.
 
-**Autora:** Sandra Maria Pereira · **Versão:** 0.1.0 · **Data:** 14/10/2026
+**Autora:** Sandra Maria Pereira · **Versão:** 0.1.1 · **Data:** 14/10/2026
