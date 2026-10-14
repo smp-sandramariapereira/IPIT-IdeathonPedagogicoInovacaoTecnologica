@@ -35,7 +35,7 @@ O artigo descreve observações de participação, autonomia, colaboração, com
 - [Estudo de caso no acervo](https://github.com/smp-sandramariapereira/IPIT_origin/blob/main/docs/estudo-de-caso.md).
 - [Metodologia sistematizada](https://github.com/smp-sandramariapereira/IPIT_origin/blob/main/docs/metodologia.md).
 - [Acervo de origem](https://github.com/smp-sandramariapereira/IPIT_origin).
-- [Guia introdutório](guia-do-professor.md).
+- [Guia introdutório](../docs/guia-do-professor.md).
 - [Página pública](https://smp-sandramariapereira.github.io/IPIT-IdeathonPedagogicoInovacaoTecnologica/index.html).
 
 O endereço da página pública preserva o caminho citado nas referências do artigo. O artigo não foi alterado nem republicado nesta atualização.

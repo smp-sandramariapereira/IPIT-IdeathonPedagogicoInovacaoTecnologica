@@ -1,6 +1,6 @@
 # Créditos e referências
 **Autora da metodologia:** Sandra Maria Pereira.
-Este pacote é uma síntese e adaptação introdutória do acervo [IPIT_origin](https://github.com/smp-sandramariapereira/IPIT_origin), publicada em 14/10/2026 como versão 0.1.1 do novo repositório público.
+Este pacote é uma síntese e adaptação introdutória do acervo [IPIT_origin](https://github.com/smp-sandramariapereira/IPIT_origin), publicada em 14/10/2026 como versão 0.1.2 do novo repositório público.
 
 ## Fontes do pacote
 - [Apresentação e princípios](https://github.com/smp-sandramariapereira/IPIT_origin/blob/main/README.md).
@@ -20,9 +20,9 @@ O acervo relata uma experiência situada no Curso Técnico em Informática da Es
 ## Atribuição e citação
 “IPIT — Ideathon Pedagógico de Inovação Tecnológica, de Sandra Maria Pereira, licenciado sob CC BY 4.0. Versão introdutória adaptada; alterações indicadas.”
 
-PEREIRA, Sandra Maria. *IPIT — pacote aberto introdutório*. Versão 0.1.1, 2026. Disponível em: https://github.com/smp-sandramariapereira/IPIT-IdeathonPedagogicoInovacaoTecnologica.
+PEREIRA, Sandra Maria. *IPIT — pacote aberto introdutório*. Versão 0.1.2, 2026. Disponível em: https://github.com/smp-sandramariapereira/IPIT-IdeathonPedagogicoInovacaoTecnologica.
 
 Ao adaptar, mantenha os créditos, forneça link para a licença e indique mudanças. Materiais de terceiros mantêm seus direitos próprios.
 
 ## Artigo de referência
-PEREIRA, Sandra Maria. *Da Sala de Aula ao Ecossistema de Inovação — O Ideathon como estratégia para o desenvolvimento de competências e soluções criativas*. Arquivo fornecido pela autora, consultado em 14/10/2026; dados editoriais de publicação não informados. Veja a [correspondência entre os percursos](docs/experiencia-de-origem.md).
+PEREIRA, Sandra Maria. *Da Sala de Aula ao Ecossistema de Inovação — O Ideathon como estratégia para o desenvolvimento de competências e soluções criativas*. Arquivo fornecido pela autora, consultado em 14/10/2026; dados editoriais de publicação não informados. Veja a [correspondência entre os percursos](experiencia-de-origem.md).

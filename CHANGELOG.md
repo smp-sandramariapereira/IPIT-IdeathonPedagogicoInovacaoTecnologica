@@ -1,4 +1,10 @@
 # Histórico de versões
+## 0.1.2 — 2026-10-14
+- Organização de estilos em assets/css/, exemplo em exemplos/, fontes em referencias/ e publicação em manutencao/.
+- Links relativos e links da página atualizados para os novos caminhos.
+- Índice de pastas no README e orientações de diagnóstico de 404.
+- index.html preservado na raiz; conteúdo pedagógico mantido.
+
 ## 0.1.1 — 2026-10-14
 - Página index.html no caminho citado pelo artigo, com apresentação, preparação, kit e experiência de origem.
 - Estilos responsivos, navegação por teclado e opção de impressão.
